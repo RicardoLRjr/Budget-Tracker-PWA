@@ -2,10 +2,7 @@
 A Budget Checker with online and offline functionality.
 
 ## Name:
- Hi! I am Ricardo L. Russ
-
- ## Project Name:
- Budget Tracker
+Ricardo L. Russ
 
  ## Description:
  This web application allows you to make a budget to track expenditures and profits easily, whether you currently have access to the internet or not.  
